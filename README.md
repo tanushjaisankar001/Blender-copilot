@@ -31,7 +31,7 @@ Unlike standard "one-shot" AI code generators, this Copilot acts as a true agent
 5. Continue chatting to refine and edit the existing setup.
 
 ## 🖼️ Images
-1. ![Randomized Cubes](Screenshot%1.png)
-2. ![Randomized Cubes](Screenshot%2.png)
-3. ![Randomized Cubes](Screenshot%3.png)
-4. ![Randomized Cubes](Screenshot%4.png)
+<img width="1440" height="900" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1e7fe5f0-e989-49a3-a52e-28022975303f" />
+<img width="1440" height="900" alt="Screenshot 2" src="https://github.com/user-attachments/assets/9f587ef7-9735-48a0-8a76-e10fdf085077" />
+<img width="1440" height="900" alt="Screenshot 3" src="https://github.com/user-attachments/assets/4498d8dc-b35e-4a4d-9c3b-7c5882ace512" />
+<img width="1440" height="900" alt="Screenshot 4" src="https://github.com/user-attachments/assets/7d3acd1e-0a67-4b26-9ef7-6f161d5a5a76" />
