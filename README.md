@@ -29,3 +29,9 @@ Unlike standard "one-shot" AI code generators, this Copilot acts as a true agent
 3. Type your prompt (e.g., *"Create a setup that instances cubes onto a UV sphere"*).
 4. Watch the Copilot build and wire the nodes automatically. 
 5. Continue chatting to refine and edit the existing setup.
+
+## 🖼️ Images
+1. ![Randomized Cubes](Screenshot%1.png)
+2. ![Randomized Cubes](Screenshot%2.png)
+3. ![Randomized Cubes](Screenshot%3.png)
+4. ![Randomized Cubes](Screenshot%4.png)
